@@ -1,7 +1,7 @@
 module.exports = {
-  host     : 'localhost',
+  host     : '156.88.22.123',
   user     : 'root',
-  password : 'ggrpass_2017',
-  port     : 3306,
-  database : 'nodejs'
+  password : 'XXXXX',
+  port     : 1111,
+  database : 'DocXYZ'
 }
